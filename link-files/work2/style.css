@@ -1,0 +1,18 @@
+* {
+    background-color: pink;
+    color:blueviolet;
+    font-family: monospace;
+}
+
+h1 {
+    font-size: larger;
+    font-weight: 400;
+}
+
+p {
+    font-size: small;
+}
+
+header {
+    margin: 500px;
+}
