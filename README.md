@@ -26,7 +26,9 @@
 
 ## Link
 
-Here is a link to my deployed application: https://lindybriggs.github.io/hw2/
+See this deployed application here: https://lindybriggs.github.io/Portfolio_Updated/
+
+See this GitHub Repo here: https://github.com/lindybriggs/Portfolio_Updated
 
 ## Screenshots
 
