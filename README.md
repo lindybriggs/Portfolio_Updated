@@ -1,8 +1,6 @@
-# Lindy Briggs Portfolio - HW 2 & 7
+# Lindy Briggs Portfolio
 
 ## Description
-
-For this homework assignment, I accomplished the following:
 
 * Created an html web page with my name, a photo of myself, and links to sections about myself, my work, and how to contact me.
 
@@ -43,6 +41,10 @@ Here is a link to my deployed application: https://lindybriggs.github.io/hw2/
 * Email: briggs.lindy@yahoo.com 
 
 * LinkedIn: https://www.linkedin.com/in/lindy-briggs-5b3558179/ 
+
+## Resume
+
+* Download PDF here: https://drive.google.com/file/d/1zVbZgE_u2-m0mp3WPqdGp-DqnBYikQvx/view?usp=sharing
 
 ## License
 
