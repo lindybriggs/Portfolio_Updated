@@ -6,7 +6,7 @@
 
 * When clicked, links in the header/navigation scroll the UI to the correponding section.
 
-* The section about my work has titled image of my applications, with the first image being larger than the others. Clicking the images opens a new tab to that deployed application. Clicking 'GitHub' in the item title bubble takes users to that GitHub Repo.
+* The section about my work has titled images of my applications, with the first image being larger than the others. Clicking the images opens a new tab to that deployed application. Clicking 'GitHub' in the item title bubble takes users to that GitHub Repo.
 
 * A contact section provides links to email me, my LinkedIn account, and my GitHub page.
 
@@ -42,11 +42,11 @@ See this GitHub Repo here: https://github.com/lindybriggs/Portfolio_Updated
 
 * Email: briggs.lindy@yahoo.com 
 
-* LinkedIn: https://www.linkedin.com/in/lindy-briggs-5b3558179/ 
+* LinkedIn: https://www.linkedin.com/in/lindy-briggs
 
 ## Resume
 
-* Download PDF here: https://drive.google.com/file/d/1zVbZgE_u2-m0mp3WPqdGp-DqnBYikQvx/view?usp=sharing
+* Download PDF here: https://drive.google.com/file/d/1b-LsVq1alS6q4p9Jo7JQcQMyMVoedzOl/view?usp=sharing
 
 ## License
 
